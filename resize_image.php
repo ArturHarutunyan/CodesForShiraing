@@ -1,3 +1,4 @@
+<?php
 function  resize_image($file, $w, $h, $crop=FALSE) {
 
 
